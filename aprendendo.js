@@ -37,8 +37,8 @@ mongoose.model("Users", UserSchema);
 const NovoUsuario = mongoose.model("Users");
 
 new NovoUsuario({
-  nome: "Aline",
-  sobrenome: "Dias",
+  nome: "Nicholas",
+  sobrenome: "Cassano",
   email: "teste@etste",
   idade: 22,
   pais: "Brasil",
